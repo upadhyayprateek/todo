@@ -154,7 +154,7 @@ color: #c0392b;
 #container .controls .comp #add:hover
 {
 cursor: pointer;
-transform: scale(1.03);
+transform: scale(1.025);
 }
 
 #container .mycheck {
