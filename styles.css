@@ -11,8 +11,6 @@ body {
  height: 800px;
  overflow: hidden;
  
- 
-
 }
 
 #container h1 {
@@ -152,8 +150,13 @@ height: 5px;
 #container .controls #remove:hover {
 background-color: #000;
 color: #c0392b;
-
 }
+#container .controls .comp #add:hover
+{
+cursor: pointer;
+transform: scale(1.03);
+}
+
 #container .mycheck {
  opacity: 1;
  border-radius: 10px;
