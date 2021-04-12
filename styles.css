@@ -148,8 +148,11 @@ height: 5px;
 
 }
 #container .controls #remove:hover {
-background-color: #000;
-color: #c0392b;
+
+background-color:rgba(255, 254, 254, 0);
+transition: 0.2s;
+border:2px solid #b5c5dd;
+border-radius: 10px;
 }
 #container .controls .comp #add:hover
 {
